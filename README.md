@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Akshat<br>🚀 On a mission to explore Agentic AI & Intelligent Systems<br>☁️ Big fan of Cloud, Automation, and AI-driven solutions<br>🎨 Dabble in Figma when my inner designer kicks in<br>🔍 Currently leveling up in Next.js, Django, and Express.js<br>🛡️ Passionate about Cybersecurity, Digital Forensics & Open-Source<br><br>💡 Always curious, always building—let's create something awesome! 🚀
+👋 Hey there! I'm Akshat<br>🚀 On a mission to explore Agentic AI & Intelligent Systems<br>☁️ Big fan of Cloud, Automation, and AI-driven solutions<br>🎨 Dabble in Figma when my inner designer kicks in<br>🔍 Currently leveling up in Next.js, Django, and Express.js<br>🛡️ Always building—let's create something awesome! 🚀
 
 
 # 💻 Tech Stack:
